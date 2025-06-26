@@ -11,24 +11,21 @@ It is primarily used to track posts, scripts, and assets across various platform
 The general folder structure is as follows:
 
 .
-|____.git
-|____.gitignore
-|____.obsidian
-|____LICENSE
-|____README.md
-|
-|____substack-accounts/
-|   └── (Placeholder for future account archives)
-|
-|____x-accounts/
-|   └── <Account_Name>/
-|       ├── profile/
-|       └── posts/
-|           └── <Post_ID_Timestamp>/
-|               ├── scripts/
-|               ├── images/
-|               └── text/
-|
+├── .git/
+├── .gitignore
+├── .obsidian/
+├── LICENSE
+├── README.md
+├── substack-accounts/
+│   └── (Placeholder for future account archives)
+├── x-accounts/
+│   └── <Account_Name>/
+│       ├── profile/
+│       └── posts/
+│           └── <Post_ID_Timestamp>/
+│               ├── scripts/
+│               ├── images/
+│               └── text/
 └── youtube-accounts/
     └── <Channel_Name>/
         └── community-posts/
