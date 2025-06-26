@@ -9,7 +9,7 @@ It is primarily used to track posts, scripts, and assets across various platform
 
 ## Folder Structure Overview
 The general folder structure is as follows:
-
+```
 .
 ├── .git/
 ├── .gitignore
@@ -31,6 +31,7 @@ The general folder structure is as follows:
         └── community-posts/
             └── <Community_Post_ID>/
                 └── (Content files: .txt, .png, .mp4, etc.)
+```
 
 ---
 
