@@ -191,25 +191,6 @@ models/*.joblib
 logs/
 *.log
 
-# Media files (to be tracked via Git LFS if needed)
-!branding/
-!branding/**
-
-*.mp4
-*.avi
-*.mov
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.tiff
-*.pdf
-*.doc
-*.docx
-*.xls
-*.xlsx
-
 # Cache directories
 .cache/
 .pytest_cache/# Byte-compiled / optimized / DLL files
@@ -401,22 +382,6 @@ models/*.joblib
 # Logs
 logs/
 *.log
-
-# Media files (to be tracked via Git LFS if needed)
-*.mp4
-*.avi
-*.mov
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.tiff
-*.pdf
-*.doc
-*.docx
-*.xls
-*.xlsx
 
 # Cache directories
 .cache/
