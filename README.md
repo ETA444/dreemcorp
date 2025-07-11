@@ -1,6 +1,7 @@
 # DREEMCORP Social Media Archive
 
 ## Folder Structure
+
 This repository serves as an organized archive for social media content and related analytics `Python scripts`, `.csv files` and `graphs`.
 
 It is primarily used to track posts, scripts, and assets across various platforms for easy backup, reference, and analysis.
@@ -8,9 +9,10 @@ It is primarily used to track posts, scripts, and assets across various platform
 ---
 
 ## Folder Structure Overview
+
 The general folder structure is as follows:
 
-```
+```text
 .
 ├── .git/
 ├── .gitignore
@@ -39,16 +41,36 @@ The general folder structure is as follows:
 │     │   └── visualization-scripts/
 │     │       └── ...
 │     │
-│     └── visuals/
-│         ├── charts/
-│         │   └── ...
-│         └── ...
-│             └── ...
+│     │── visuals/
+│     │   ├── charts/
+│     │   │   └── ...
+│     │   └── ...
+│     │       └── ...
+│     │
+│     └── branding/
+│             │── cover/
+│             │    └── ...
+│             │── logo/
+│             │    └── ...
+│             │── pfps/
+│             │    └── ...
+│             └── .../
+│                 └── ...
 │
 └── <YT_Account_Name>/ (for YouTube accounts)
-        └── community-posts/
-            └── <Community_Post_ID>/
-                └── (Content files: .txt, .png, etc.)
+        │── community-posts/
+        │    └── <Community_Post_ID>/
+        │        └── (Content files: .txt, .png, etc.)
+        │
+        └── branding/
+             │── cover/
+             │    └── ...
+             │── logo/
+             │    └── ...
+             │── pfps/
+             │    └── ...
+             └── watermark/
+                 └── ...
 ```
 
 ---
