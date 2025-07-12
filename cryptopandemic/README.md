@@ -1,4 +1,4 @@
-# CryptoPandemic: Navigating the Chaos & Wonder of Crypto & Web3
+# CryptoPandemic: Navigating the Chaos of Crypto & Web3
 
 ## Content Architecture Overview
 
