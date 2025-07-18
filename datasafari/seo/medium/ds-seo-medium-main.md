@@ -1,4 +1,10 @@
-# Publication About Page
+# DataSafari Medium SEO Text Assets
+
+## Short Description
+
+Exploring the World of Data — Analyses, Coding Tutorials, Visualizations & Guides.
+
+## Publication About Page
 
 Exploring the World of Data—one article at a time.
 
