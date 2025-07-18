@@ -1,9 +1,10 @@
+# George Dreemer Medium SEO Text Assets
 
-# Short Bio
+## Short Bio
 
 Simplicity is a privilege of the complex mind. Living by the motto – excellence through action. Writing about Data Science, ML, Coding, Crypto & Web3.
 
-# About Page
+## About Page
 
 ![George Dreemer About Page Banner](../../branding/x/cover/444eta-x-cover-1.png)
 
