@@ -2,7 +2,7 @@
 
 ## Short Description
 
-Exploring the World of Data — Analyses, Coding Tutorials, Visualizations & Guides.
+Exploring the World of Data — Coding & Analyses Tutorials, Model-building Guides, and Visualizations. All about Data Science, Machine Learning & Python programming.
 
 ## Publication About Page
 
